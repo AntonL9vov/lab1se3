@@ -1,0 +1,3 @@
+C:/Users/AntonLvov/CLionProjects/lab1S1/cmake-build-debug/CMakeFiles/lab1S1.dir
+C:/Users/AntonLvov/CLionProjects/lab1S1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/AntonLvov/CLionProjects/lab1S1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
